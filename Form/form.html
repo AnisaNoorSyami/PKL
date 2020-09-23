@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>form</title>
+  <link rel="stylesheet" type="text/css" href="form.css">
+</head>
+<body>
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js" ></script>
+<h1 id="title"> Form  </h1>
+  <p id="description"> Silahkan isi data diri anda... </p>
+<form id="survey-form">
+  <table border="1">
+     <label for="name" id="name-label">Nama
+    <input id="name" name="name" type="text" placeholder="Nama" required>         
+  </label><br><br>
+  <label for="email" id="email-label">Email
+    <input id="email" name"email" type="email" placeholder="email" required>  
+  </label><br><br>
+  <label for="number" id="number-label">Phone
+    <input id="number" name="number" type="number" min=1 max=10 placeholder="number" required><br><br>
+   <label>Agama</label>
+  <select id="dropdown">
+    <option value="islam">islam</option>
+    <option value="Noor">kristen</option>
+  </select><br><br>
+    <label>Jenis Kelamin</label>
+    <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Laki-laki</label>
+    <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Perempuan</label><br>
+  </label><br>
+  <input type="checkbox" id="manusia" value="manusia">
+  <label for="manusia">Manusia</label>
+  <input type="checkbox" id="umbiumbian" value="umbiumbian">
+  <label for="umbiumbian">Ubi</label><br><br>
+  <label for="pesan">Pesan</label>
+  <textarea id="pesan" name="pesan" rows="3" cols="20"></textarea><br><br>
+  <button type="submit" id="submit">Submit</button>  
+</table>
+</form>
+  
+</body>
+</html>
+
+
+
+
+<!-- 
+
+Hello Camper!
+
+For now, the test suite only works in Chrome! Please read the README below in the JS Editor before beginning. Feel free to delete this message once you have read it. Good luck and Happy Coding! 
+
+- The freeCodeCamp Team 
+
+-->
