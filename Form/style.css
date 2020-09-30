@@ -1,0 +1,58 @@
+body {
+	background-color: lightblue;
+	text-align      : center;
+}
+
+h1	{
+	font-family: helvetica;
+	font-size: : 25px
+}
+
+p {
+	font-family: helvetica;
+}
+
+form {
+	text-align: center;
+}
+
+div.form-group {
+	border: dotted;
+	width: 80%;
+
+}
+
+div.nama {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+div.email {
+	margin-bottom: 25px;
+}
+
+div.phone {
+	margin-bottom: 25px;
+}
+
+div.agama {
+	margin-bottom: 25px;
+}
+
+select {
+	width: 50%;
+}
+
+div.jenkel {
+	margin-bottom: 25px;
+}
+
+label.male {
+	margin-bottom: 25px;
+}
+
+
+input {
+	width: 50%;
+
+}
