@@ -1,0 +1,69 @@
+body {
+	background-color: lightblue;
+}
+
+div.navbar{
+	width: 100%;
+	font-family: poppins;
+	text-align: center;
+	margin-top: 15px;
+}
+a {
+	text-align: center;
+	margin-right: 25px;
+	font-style: bold;
+	font-size: 18px;
+}
+#name {
+	margin-right:  160px;
+}
+#number {
+	margin-left: 160px;
+}
+hr {
+	margin-top: 15px;
+}
+div.text {
+	width: 60%;
+}
+h1 {
+	font-family: poppins;
+	margin-left: 120px;
+	font-size: 40px;
+}
+strong {
+	color: navy;
+}
+h2 {
+	font-family: poppins;
+	margin-left: 120px;
+	margin-top: 45px;
+	font-size: 18px;
+}
+p {
+	font-family: poppins;
+	margin-left: 120px;
+	font-size: 16px;
+	margin-top: 5px;
+}
+div.pict {
+	margin-left : 1075px;
+	word-spacing: 8px; 
+	margin-bottom: 5px;
+	margin-top: 50px;
+}
+div.img {
+	width: 50%;
+	height: 100px;
+	margin-left: 120px;
+	margin-top: 50px;
+	
+}
+#pict1 {
+	margin-left: 1x0px;
+}
+#line2 {
+	width: 80%;
+	margin-top: 5px;
+
+}
