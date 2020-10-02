@@ -22,6 +22,7 @@ a {
 }
 hr {
 	margin-top: 15px;
+
 }
 div.text {
 	width: 60%;
@@ -60,10 +61,71 @@ div.img {
 	
 }
 #pict1 {
-	margin-left: 1x0px;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+#pict2 {
+	margin-left: 280px;
 }
 #line2 {
-	width: 80%;
-	margin-top: 5px;
+	width:80%;
+	align-items: right;
+}
+div.container {
+	display: flex;
+}
+hr.line2 {
+	margin-right: 20px;
+	width : 95%;
+	margin-left: 0px;
+}
+#panah {
+	margin-left: 1075px;
+	margin-top: 2px;
+	display: flex;
+}
+h3 {
+	font-family: poppins;
+	width: 30%;
+	margin-left: 800px;
+}
+#header2 {
+	margin-top: 70px;
+	text-align: center;
+	font-size: 50px;
+	margin-left: 0px;
+}
+h4 {
+	font-family: poppins;
+	margin-top: 25px;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 10px;
+}
+#place {
+	font-size: 16px;
+	margin-left: 10px;
 
+}
+#year {
+	font-size: 16px;
+	text-align: justify;
+	margin-left: 125px;
+}
+#position {
+	margin-left: 295px;
+	text-align: center;
+	color: black;
+}
+#satu {
+	margin-left: 30px;
+}
+#dua {
+
+}
+#tiga {
+
+}
+#empat {
+	
 }
