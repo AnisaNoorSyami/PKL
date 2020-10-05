@@ -68,16 +68,11 @@ div.img {
 	margin-left: 280px;
 }
 #line2 {
-	width:80%;
+	width:100%;
 	align-items: right;
 }
 div.container {
 	display: flex;
-}
-hr.line2 {
-	margin-right: 20px;
-	width : 95%;
-	margin-left: 0px;
 }
 #panah {
 	margin-left: 1075px;
@@ -99,33 +94,40 @@ h4 {
 	font-family: poppins;
 	margin-top: 25px;
 	font-size: 20px;
-	text-align: center;
-	margin-left: 10px;
+	margin-left: 410px;
 }
 #place {
 	font-size: 16px;
 	margin-left: 10px;
+	color: #A9A9A9;
 
 }
 #year {
 	font-size: 16px;
 	text-align: justify;
 	margin-left: 125px;
+	color: #A9A9A9;
 }
 #position {
-	margin-left: 295px;
-	text-align: center;
+	margin-left: 135px;
 	color: black;
 }
-#satu {
-	margin-left: 30px;
+#position1 {
+	margin-left: 205px;
+	color: black;
 }
-#dua {
+.container {
+	width: 100%;
 
 }
-#tiga {
+#picture {
+	margin-top: 100px;
+	margin-left: 360px;
+}
+#paragraph {
+	margin-top: 100px;
+	background-color: white;
+	width: 13%;
+	margin-left:0px;
+}
 
-}
-#empat {
-	
-}
