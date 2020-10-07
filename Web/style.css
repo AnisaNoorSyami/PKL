@@ -118,7 +118,8 @@ h4 {
 }
 .container {
 	width: 100%;
-
+	margin-right: 20px;
+	margin-left: 20px;
 }
 #picture {
 	margin-top: 100px;
@@ -130,4 +131,31 @@ h4 {
 	width: 13%;
 	margin-left:0px;
 }
+h5 {
+	font-family: poppins;
+	font-size: 18px;
+	text-align: center;
+	margin-left : 120px;
+}
+.skills1{
+	width: 200px;
+	margin-left: 100px;
+}
+.skills2{
+	width: 100px;
+	margin-left: 140px
+}
+.skills3{
+	width: 100px;
+	margin-left: 180px;
+}
+#check {
+	margin-left: 120px;
+}
+#tools {
+	margin-left: 138px;
+	color: black;
+	margin-top: 0px;
+}
+
 
